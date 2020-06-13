@@ -1,0 +1,19 @@
+{
+  "name": "mygittest",
+  "version": "1.0.0",
+  "description": "This is a readme - enhanced!",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effiz/testRepo.git"
+  },
+  "author": "Effi Zachut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/effiz/testRepo/issues"
+  },
+  "homepage": "https://github.com/effiz/testRepo#readme"
+}
